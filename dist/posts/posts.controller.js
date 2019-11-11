@@ -10,19 +10,19 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 };
 Object.defineProperty(exports, "__esModule", { value: true });
 const common_1 = require("@nestjs/common");
-let AppController = class AppController {
+let PostsController = class PostsController {
     index() {
-        return 'nest...';
+        return 'post/index ...';
     }
 };
 __decorate([
     common_1.Get(),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", []),
-    __metadata("design:returntype", String)
-], AppController.prototype, "index", null);
-AppController = __decorate([
-    common_1.Controller()
-], AppController);
-exports.AppController = AppController;
-//# sourceMappingURL=app.controller.js.map
+    __metadata("design:returntype", void 0)
+], PostsController.prototype, "index", null);
+PostsController = __decorate([
+    common_1.Controller('posts')
+], PostsController);
+exports.PostsController = PostsController;
+//# sourceMappingURL=posts.controller.js.map
