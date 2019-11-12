@@ -4,6 +4,7 @@ const core_1 = require("@nestjs/core");
 const app_module_1 = require("./app.module");
 const swagger_1 = require("@nestjs/swagger");
 const mongoose = require("mongoose");
+const common_1 = require("@nestjs/common");
 async function bootstrap() {
     mongoose.connect('mongodb://localhost/nest-blog-api', {
         useNewUrlParser: true,
@@ -11,6 +12,7 @@ async function bootstrap() {
         useCreateIndex: true
     });
     const app = await core_1.NestFactory.create(app_module_1.AppModule);
+    app.useGlobalPipes(new common_1.ValidationPipe());
     const options = new swagger_1.DocumentBuilder()
         .setTitle('NestJS 博客 API')
         .setDescription('The Blog API description')

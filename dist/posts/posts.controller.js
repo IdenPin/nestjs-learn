@@ -15,22 +15,24 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const common_1 = require("@nestjs/common");
 const swagger_1 = require("@nestjs/swagger");
 const post_model_1 = require("./post.model");
+const class_validator_1 = require("class-validator");
 class PostDto {
 }
 __decorate([
-    swagger_1.ApiModelProperty({ description: '帖子标题' }),
+    swagger_1.ApiModelProperty({ description: '帖子标题', example: '帖子标题1' }),
+    class_validator_1.IsNotEmpty({ message: '请填写标题' }),
     __metadata("design:type", String)
 ], PostDto.prototype, "title", void 0);
 __decorate([
-    swagger_1.ApiModelProperty({ description: '帖子内容' }),
+    swagger_1.ApiModelProperty({ description: '帖子内容', example: '内容1' }),
     __metadata("design:type", String)
 ], PostDto.prototype, "content", void 0);
 let PostsController = class PostsController {
     async index() {
         return await post_model_1.PostModel.find();
     }
-    async create(body) {
-        await post_model_1.PostModel.create(body);
+    async create(createPostDto) {
+        await post_model_1.PostModel.create(createPostDto);
         return {
             success: true
         };
@@ -38,12 +40,14 @@ let PostsController = class PostsController {
     async detail(id) {
         return await post_model_1.PostModel.findById(id);
     }
-    async update(id, body) {
+    async update(id, updatePostDto) {
+        await post_model_1.PostModel.findByIdAndUpdate(id, updatePostDto);
         return {
             success: true
         };
     }
-    remove(id) {
+    async remove(id) {
+        await post_model_1.PostModel.findByIdAndRemove(id);
         return {
             success: true
         };
@@ -86,7 +90,7 @@ __decorate([
     __param(0, common_1.Param('id')),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", [String]),
-    __metadata("design:returntype", void 0)
+    __metadata("design:returntype", Promise)
 ], PostsController.prototype, "remove", null);
 PostsController = __decorate([
     common_1.Controller('posts'),

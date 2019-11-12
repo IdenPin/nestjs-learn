@@ -3,16 +3,16 @@ declare class PostDto {
     content: string;
 }
 export declare class PostsController {
-    index(): Promise<import("@hasezoey/typegoose").DocumentType<import("./post.model").Post>[]>;
-    create(body: PostDto): Promise<{
+    index(): Promise<any>;
+    create(createPostDto: PostDto): Promise<{
         success: boolean;
     }>;
-    detail(id: string): Promise<import("@hasezoey/typegoose").DocumentType<import("./post.model").Post>>;
-    update(id: string, body: PostDto): Promise<{
+    detail(id: string): Promise<any>;
+    update(id: string, updatePostDto: PostDto): Promise<{
         success: boolean;
     }>;
-    remove(id: string): {
+    remove(id: string): Promise<{
         success: boolean;
-    };
+    }>;
 }
 export {};
