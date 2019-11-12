@@ -10,11 +10,17 @@ const common_1 = require("@nestjs/common");
 const app_controller_1 = require("./app.controller");
 const app_service_1 = require("./app.service");
 const posts_module_1 = require("./posts/posts.module");
+const nestjs_typegoose_1 = require("nestjs-typegoose");
 let AppModule = class AppModule {
 };
 AppModule = __decorate([
     common_1.Module({
-        imports: [posts_module_1.PostsModule],
+        imports: [
+            nestjs_typegoose_1.TypegooseModule.forRoot("mongodb://localhost:27017/nest-blog-api", {
+                useNewUrlParser: true
+            }),
+            posts_module_1.PostsModule
+        ],
         controllers: [app_controller_1.AppController],
         providers: [app_service_1.AppService],
     })

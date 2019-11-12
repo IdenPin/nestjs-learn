@@ -8,10 +8,15 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 Object.defineProperty(exports, "__esModule", { value: true });
 const common_1 = require("@nestjs/common");
 const posts_controller_1 = require("./posts.controller");
+const nestjs_typegoose_1 = require("nestjs-typegoose");
+const post_model_1 = require("./post.model");
 let PostsModule = class PostsModule {
 };
 PostsModule = __decorate([
     common_1.Module({
+        imports: [
+            nestjs_typegoose_1.TypegooseModule.forFeature([post_model_1.Post])
+        ],
         controllers: [posts_controller_1.PostsController]
     })
 ], PostsModule);

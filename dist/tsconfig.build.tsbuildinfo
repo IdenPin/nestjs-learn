@@ -1217,66 +1217,6 @@
         "version": "eaf8514ce110fa428a93a27408df4d06d133dbd9ed0a775c315ddfdd507853a9",
         "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2"
       },
-      "../node_modules/@hasezoey/typegoose/lib/defaultclasses.d.ts": {
-        "version": "b4328f679962e6b18795d051cb5b7303a3275d04f76f4a23bb414baa1f3e3fbb",
-        "signature": "b4328f679962e6b18795d051cb5b7303a3275d04f76f4a23bb414baa1f3e3fbb"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/types.d.ts": {
-        "version": "0d4767e32548fe2c0c12b0ebda16deecaa55d2dcf84ba30a5c1c5eecf2ff6bc3",
-        "signature": "0d4767e32548fe2c0c12b0ebda16deecaa55d2dcf84ba30a5c1c5eecf2ff6bc3"
-      },
-      "../node_modules/loglevel/index.d.ts": {
-        "version": "21cbf5bac838c040097bf278c486c1e5bf6528fd0c2e4c3036a4098c137bebbe",
-        "signature": "21cbf5bac838c040097bf278c486c1e5bf6528fd0c2e4c3036a4098c137bebbe"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/logsettings.d.ts": {
-        "version": "733cbbb4423d18ee5bf261ba538966f947d9ecc256c313900ec90bf1821532af",
-        "signature": "733cbbb4423d18ee5bf261ba538966f947d9ecc256c313900ec90bf1821532af"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/method.d.ts": {
-        "version": "67e631148d19150fee6780580cf1f1da3f6e5024ff43c1fb556cfba91f9ddb35",
-        "signature": "67e631148d19150fee6780580cf1f1da3f6e5024ff43c1fb556cfba91f9ddb35"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/prop.d.ts": {
-        "version": "2e8bf86023534a17e0bbecdb6430c7d06251cc3857865119712830608851b6cb",
-        "signature": "2e8bf86023534a17e0bbecdb6430c7d06251cc3857865119712830608851b6cb"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/hooks.d.ts": {
-        "version": "a3ab659f10ae4a12074bbe8e7396bdcbd813a671402833d3da4cb112fb997d17",
-        "signature": "a3ab659f10ae4a12074bbe8e7396bdcbd813a671402833d3da4cb112fb997d17"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/plugin.d.ts": {
-        "version": "2b76530fb9d824e00e85f6f1d13da777159c6ecd578cd829ab4505fd7a17707a",
-        "signature": "2b76530fb9d824e00e85f6f1d13da777159c6ecd578cd829ab4505fd7a17707a"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/index.d.ts": {
-        "version": "e0df1ace8644387ee192e970d919198db5a23bf6112ad11163ec92c59c46161d",
-        "signature": "e0df1ace8644387ee192e970d919198db5a23bf6112ad11163ec92c59c46161d"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/typeguards.d.ts": {
-        "version": "3e52d4f9be94d04360b96c2be8edaaaa8cd3929196182be7ac03c2202211cfaf",
-        "signature": "3e52d4f9be94d04360b96c2be8edaaaa8cd3929196182be7ac03c2202211cfaf"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/optionsprop.d.ts": {
-        "version": "2418710cad26e6335e84b460f799dabefebd381d947005324441d009a5fb5172",
-        "signature": "2418710cad26e6335e84b460f799dabefebd381d947005324441d009a5fb5172"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/internal/constants.d.ts": {
-        "version": "fa08cc0f5ed7bbdcb7d400722b7a99dbc78ee3e56f8136a0fe971bd5ad7cfb45",
-        "signature": "fa08cc0f5ed7bbdcb7d400722b7a99dbc78ee3e56f8136a0fe971bd5ad7cfb45"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/internal/utils.d.ts": {
-        "version": "c1876e6602039ce2c99de024c414fca3eb54ed52e5ec1dba08b016c8971d7c90",
-        "signature": "c1876e6602039ce2c99de024c414fca3eb54ed52e5ec1dba08b016c8971d7c90"
-      },
-      "../node_modules/@hasezoey/typegoose/lib/typegoose.d.ts": {
-        "version": "2d74c2797a73e8e683757fb71c24b48d4162e08f0933581cc1cef97228b87e91",
-        "signature": "2d74c2797a73e8e683757fb71c24b48d4162e08f0933581cc1cef97228b87e91"
-      },
-      "../src/posts/post.model.ts": {
-        "version": "75b16e749f350373f98e482cf2ff72dd19195dcf861a8a135ff1ff9e42d58739",
-        "signature": "d81c48496649831860508433b254f5c02ad3eeff5118a56a8ba3323b5c9a081c"
-      },
       "../node_modules/class-validator/validation/validationerror.d.ts": {
         "version": "8b5ad058f8dab857050fdbb092b9f1267d22641f0f746cd8a7abee85b48bb83a",
         "signature": "8b5ad058f8dab857050fdbb092b9f1267d22641f0f746cd8a7abee85b48bb83a"
@@ -1349,16 +1289,116 @@
         "version": "70aecfd981af29d74ba7ab6667b9cc2a53459d8eb099c139fd2aa54c3059c71d",
         "signature": "70aecfd981af29d74ba7ab6667b9cc2a53459d8eb099c139fd2aa54c3059c71d"
       },
+      "../node_modules/nestjs-typegoose/dist/typegoose-class.interface.d.ts": {
+        "version": "d48d390e17ec55e4571455d60aa3c7697ad6dc551be804a9dc5480bd9813aeef",
+        "signature": "d48d390e17ec55e4571455d60aa3c7697ad6dc551be804a9dc5480bd9813aeef"
+      },
+      "../node_modules/nestjs-typegoose/dist/typegoose.decorators.d.ts": {
+        "version": "9c49f29aa735b484fc6390c25e182b4bfa2719717d4825713d77bf51a3d2289d",
+        "signature": "9c49f29aa735b484fc6390c25e182b4bfa2719717d4825713d77bf51a3d2289d"
+      },
+      "../node_modules/@types/bson/index.d.ts": {
+        "version": "64118c8a43189b10dfe9d96a9478bcf7cd5b01c9d0f7838ee1454ece8a687253",
+        "signature": "64118c8a43189b10dfe9d96a9478bcf7cd5b01c9d0f7838ee1454ece8a687253"
+      },
+      "../node_modules/@types/mongodb/index.d.ts": {
+        "version": "81a404cae978932b47d8660d7c737c663733934705bea86d28419f0a755adb70",
+        "signature": "81a404cae978932b47d8660d7c737c663733934705bea86d28419f0a755adb70"
+      },
+      "../node_modules/@types/mongoose/index.d.ts": {
+        "version": "28db39bb450c74ce1cbb3c821ddd114f776285cf163643e1638d538e540481d8",
+        "signature": "28db39bb450c74ce1cbb3c821ddd114f776285cf163643e1638d538e540481d8"
+      },
+      "../node_modules/nestjs-typegoose/dist/typegoose.providers.d.ts": {
+        "version": "ff086e2c97caab34050a167024b298267525916f95dbb77a227a4acc9289646c",
+        "signature": "ff086e2c97caab34050a167024b298267525916f95dbb77a227a4acc9289646c"
+      },
+      "../node_modules/nestjs-typegoose/dist/typegoose-options.interface.d.ts": {
+        "version": "97fe1b667c4adda26acf2663ba9d3d7c5040b54eaf3b60fb72fae34776f7b222",
+        "signature": "97fe1b667c4adda26acf2663ba9d3d7c5040b54eaf3b60fb72fae34776f7b222"
+      },
+      "../node_modules/nestjs-typegoose/dist/typegoose.module.d.ts": {
+        "version": "7efa3fb08e2008c0ccbb0ebc21aea306adfacb571e3ba7e2f2c4068e14b8c2ae",
+        "signature": "7efa3fb08e2008c0ccbb0ebc21aea306adfacb571e3ba7e2f2c4068e14b8c2ae"
+      },
+      "../node_modules/nestjs-typegoose/dist/typegoose.utils.d.ts": {
+        "version": "e37a6c9317af65f2c8f1dbd26f098a76b371f7f3e70851222a068dbbad9458e3",
+        "signature": "e37a6c9317af65f2c8f1dbd26f098a76b371f7f3e70851222a068dbbad9458e3"
+      },
+      "../node_modules/nestjs-typegoose/dist/index.d.ts": {
+        "version": "9224c559faef6b2035e97f4acfbc4aab400c1df189ec67e0a9825e524a83e832",
+        "signature": "9224c559faef6b2035e97f4acfbc4aab400c1df189ec67e0a9825e524a83e832"
+      },
+      "../node_modules/@typegoose/typegoose/lib/types.d.ts": {
+        "version": "3b535a78976abd0232388e703823b251616b12cfb8909a98a71c2bcd33bbc3ee",
+        "signature": "3b535a78976abd0232388e703823b251616b12cfb8909a98a71c2bcd33bbc3ee"
+      },
+      "../node_modules/@typegoose/typegoose/lib/defaultclasses.d.ts": {
+        "version": "948d57d128f87fa5a02e4c39dc6c07685896a0a12d3e166f579231365e8144a6",
+        "signature": "948d57d128f87fa5a02e4c39dc6c07685896a0a12d3e166f579231365e8144a6"
+      },
+      "../node_modules/loglevel/index.d.ts": {
+        "version": "21cbf5bac838c040097bf278c486c1e5bf6528fd0c2e4c3036a4098c137bebbe",
+        "signature": "21cbf5bac838c040097bf278c486c1e5bf6528fd0c2e4c3036a4098c137bebbe"
+      },
+      "../node_modules/@typegoose/typegoose/lib/logsettings.d.ts": {
+        "version": "733cbbb4423d18ee5bf261ba538966f947d9ecc256c313900ec90bf1821532af",
+        "signature": "733cbbb4423d18ee5bf261ba538966f947d9ecc256c313900ec90bf1821532af"
+      },
+      "../node_modules/@typegoose/typegoose/lib/prop.d.ts": {
+        "version": "5a26f31ec14d7e82da61f24e5561dc5afe0b51cabe3ec446cbd65fec368e9fe6",
+        "signature": "5a26f31ec14d7e82da61f24e5561dc5afe0b51cabe3ec446cbd65fec368e9fe6"
+      },
+      "../node_modules/@typegoose/typegoose/lib/hooks.d.ts": {
+        "version": "a0b48db21cf6526dd5762f3989a84d106cf1fa50bee1a1283dfb905f3dbe9fc2",
+        "signature": "a0b48db21cf6526dd5762f3989a84d106cf1fa50bee1a1283dfb905f3dbe9fc2"
+      },
+      "../node_modules/@typegoose/typegoose/lib/plugin.d.ts": {
+        "version": "2b76530fb9d824e00e85f6f1d13da777159c6ecd578cd829ab4505fd7a17707a",
+        "signature": "2b76530fb9d824e00e85f6f1d13da777159c6ecd578cd829ab4505fd7a17707a"
+      },
+      "../node_modules/@typegoose/typegoose/lib/index.d.ts": {
+        "version": "8de06d27b2991c559bce3a2423d5e5eb3af1d394aaf6f8bd4cf105c1f2cdd547",
+        "signature": "8de06d27b2991c559bce3a2423d5e5eb3af1d394aaf6f8bd4cf105c1f2cdd547"
+      },
+      "../node_modules/@typegoose/typegoose/lib/typeguards.d.ts": {
+        "version": "3e52d4f9be94d04360b96c2be8edaaaa8cd3929196182be7ac03c2202211cfaf",
+        "signature": "3e52d4f9be94d04360b96c2be8edaaaa8cd3929196182be7ac03c2202211cfaf"
+      },
+      "../node_modules/@typegoose/typegoose/lib/optionsprop.d.ts": {
+        "version": "2418710cad26e6335e84b460f799dabefebd381d947005324441d009a5fb5172",
+        "signature": "2418710cad26e6335e84b460f799dabefebd381d947005324441d009a5fb5172"
+      },
+      "../node_modules/@typegoose/typegoose/lib/internal/constants.d.ts": {
+        "version": "dc9103233f63e199670d979d302134501ef987b74b15c74db3917a0e67e71035",
+        "signature": "dc9103233f63e199670d979d302134501ef987b74b15c74db3917a0e67e71035"
+      },
+      "../node_modules/@typegoose/typegoose/lib/internal/utils.d.ts": {
+        "version": "ea57c2bf71a0704ceca11a5660cd61464591f598eb06496c1469a4044ab0a079",
+        "signature": "ea57c2bf71a0704ceca11a5660cd61464591f598eb06496c1469a4044ab0a079"
+      },
+      "../node_modules/@typegoose/typegoose/lib/globaloptions.d.ts": {
+        "version": "63cda360b8bdbc4009ad956f152cfda598818f69d6a981683c8d30cbb578d8c6",
+        "signature": "63cda360b8bdbc4009ad956f152cfda598818f69d6a981683c8d30cbb578d8c6"
+      },
+      "../node_modules/@typegoose/typegoose/lib/typegoose.d.ts": {
+        "version": "9946038175f8c9a31645c58a4c366e6bbf2e57bd06af1eb5ec326d5577df63f1",
+        "signature": "9946038175f8c9a31645c58a4c366e6bbf2e57bd06af1eb5ec326d5577df63f1"
+      },
+      "../src/posts/post.model.ts": {
+        "version": "294d70f0b20097183319a64f45e5bf10cb486f9ac4820a2d72e3c625b086c3a5",
+        "signature": "2d6564a9befc0bd25ab3a33c7b7a0b33b4b3fe26ce96d2f2f29d995e507e35a4"
+      },
       "../src/posts/posts.controller.ts": {
-        "version": "c1062e3f146ea031684610110d625f71f830491dd3a4491ebc8a662081c54dcd",
-        "signature": "4960b634103f616a62edc96611b16a0ef80068eec29a5998584dd23f43216739"
+        "version": "03f39540cc70830892697d804de4b99c85d240acbae1e7b10e5fdba3fb560408",
+        "signature": "d58e415d918f207a96965095cc2a0ebf64231730bca47a56a05b1a7afa1a4bb6"
       },
       "../src/posts/posts.module.ts": {
-        "version": "984e76c0cd8ca95a826cc651fe2455131dba706b2d37077b93266b5b9e798a55",
+        "version": "f28c59c65a5386e4eba58270ecbc4e823483b43f4cae9ac9cdef8cef19f045ba",
         "signature": "d73d1be1edc2a3da3bf5a4272781d7c793d79993a6f261bb91fa64bb4ad5b57b"
       },
       "../src/app.module.ts": {
-        "version": "25c0ade7441b47c597eeb2ef28cdc793dbffa5f90c255a29c0217b8f2b4e2ca9",
+        "version": "4161584d00dd0b852fcbc7788943b213bc24e6fb055d45a07c3b473a3db6c6df",
         "signature": "b82491e2990291580288c5602d4c017238977749d52b17391f0e45d9a29be644"
       },
       "../node_modules/@nestjs/core/adapters/http-adapter.d.ts": {
@@ -1478,7 +1518,7 @@
         "signature": "2608cfd623840916e664e68c3dc5eb4347ccae822f808d899bf00e73cbab2bfe"
       },
       "../src/main.ts": {
-        "version": "58c1debe05e6b10976f3a9723d14c6b86311de7af343e46faf18d5eddc7cf838",
+        "version": "0fb26ca7541ace0cfc39b5a1792db8ab0501ba54dacd55dc1f4f0a45316375e4",
         "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
       },
       "../node_modules/@types/anymatch/index.d.ts": {
@@ -1601,21 +1641,13 @@
         "version": "c3175d4a7894de56cdc5e62f4269f1f57c2f08da88d3a91ad47bc0652ac8cb46",
         "signature": "c3175d4a7894de56cdc5e62f4269f1f57c2f08da88d3a91ad47bc0652ac8cb46"
       },
-      "../node_modules/@types/uglify-js/node_modules/source-map/source-map.d.ts": {
+      "../node_modules/source-map/source-map.d.ts": {
         "version": "2887592574fcdfd087647c539dcb0fbe5af2521270dad4a37f9d17c16190d579",
         "signature": "2887592574fcdfd087647c539dcb0fbe5af2521270dad4a37f9d17c16190d579"
       },
       "../node_modules/@types/uglify-js/index.d.ts": {
         "version": "bdc18dd47aea9977e419a8e03e7e5d04ed8cf8265e014d8788848b76b969cbba",
         "signature": "bdc18dd47aea9977e419a8e03e7e5d04ed8cf8265e014d8788848b76b969cbba"
-      },
-      "../node_modules/@types/webpack/node_modules/source-map/source-map.d.ts": {
-        "version": "2887592574fcdfd087647c539dcb0fbe5af2521270dad4a37f9d17c16190d579",
-        "signature": "2887592574fcdfd087647c539dcb0fbe5af2521270dad4a37f9d17c16190d579"
-      },
-      "../node_modules/@types/webpack-sources/node_modules/source-map/source-map.d.ts": {
-        "version": "2887592574fcdfd087647c539dcb0fbe5af2521270dad4a37f9d17c16190d579",
-        "signature": "2887592574fcdfd087647c539dcb0fbe5af2521270dad4a37f9d17c16190d579"
       },
       "../node_modules/@types/webpack-sources/index.d.ts": {
         "version": "7429e36c7e860a83e1166d6f0977fa4938b7a7a346255169a678939594394375",
@@ -4029,120 +4061,6 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/@hasezoey/typegoose/lib/defaultclasses.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/types.d.ts": [
-        "../node_modules/@types/node/ts3.2/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/loglevel/index.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/logsettings.d.ts": [
-        "../node_modules/loglevel/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/method.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/prop.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/hooks.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/typegoose.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/plugin.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/index.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/typeguards.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/typegoose.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/optionsprop.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/internal/constants.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/internal/utils.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/internal/constants.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/typegoose.d.ts": [
-        "../node_modules/reflect-metadata/index.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/defaultclasses.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/logsettings.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/method.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/prop.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/hooks.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/plugin.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/index.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/typeguards.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/optionsprop.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/internal/utils.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../src/posts/post.model.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/typegoose.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "../node_modules/class-validator/validation/validationerror.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
@@ -4284,11 +4202,221 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
+      "../node_modules/nestjs-typegoose/dist/typegoose-class.interface.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose.decorators.d.ts": [
+        "../node_modules/nestjs-typegoose/dist/typegoose-class.interface.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/bson/index.d.ts": [
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/mongodb/index.d.ts": [
+        "../node_modules/@types/bson/index.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/mongoose/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/mongodb/index.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose.providers.d.ts": [
+        "../node_modules/nestjs-typegoose/dist/typegoose-class.interface.d.ts",
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose-options.interface.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/common/interfaces/index.d.ts",
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose.module.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose.providers.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose-class.interface.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose-options.interface.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose.utils.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/index.d.ts": [
+        "../node_modules/nestjs-typegoose/dist/typegoose.decorators.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose.module.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose.utils.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose-options.interface.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/types.d.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/defaultclasses.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/defaultclasses.d.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/loglevel/index.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/logsettings.d.ts": [
+        "../node_modules/loglevel/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/prop.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/hooks.d.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/typegoose.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/plugin.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/index.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/typeguards.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/typegoose.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/optionsprop.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/internal/constants.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/internal/utils.d.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/internal/constants.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/globaloptions.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/typegoose.d.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/reflect-metadata/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/defaultclasses.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/logsettings.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/prop.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/hooks.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/plugin.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/typeguards.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/optionsprop.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/internal/utils.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/globaloptions.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../src/posts/post.model.ts": [
+        "../node_modules/@typegoose/typegoose/lib/typegoose.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
       "../src/posts/posts.controller.ts": [
         "../node_modules/@nestjs/common/index.d.ts",
         "../node_modules/@nestjs/swagger/index.d.ts",
-        "../src/posts/post.model.ts",
         "../node_modules/class-validator/index.d.ts",
+        "../node_modules/nestjs-typegoose/dist/index.d.ts",
+        "../src/posts/post.model.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -4297,6 +4425,8 @@
       "../src/posts/posts.module.ts": [
         "../node_modules/@nestjs/common/index.d.ts",
         "../src/posts/posts.controller.ts",
+        "../node_modules/nestjs-typegoose/dist/index.d.ts",
+        "../src/posts/post.model.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -4307,6 +4437,7 @@
         "../src/app.controller.ts",
         "../src/app.service.ts",
         "../src/posts/posts.module.ts",
+        "../node_modules/nestjs-typegoose/dist/index.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -4801,26 +4932,14 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/@types/uglify-js/node_modules/source-map/source-map.d.ts": [
+      "../node_modules/source-map/source-map.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
       "../node_modules/@types/uglify-js/index.d.ts": [
-        "../node_modules/@types/uglify-js/node_modules/source-map/source-map.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/webpack/node_modules/source-map/source-map.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/webpack-sources/node_modules/source-map/source-map.d.ts": [
+        "../node_modules/source-map/source-map.d.ts",
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -4828,7 +4947,7 @@
       ],
       "../node_modules/@types/webpack-sources/index.d.ts": [
         "../node_modules/@types/node/crypto.d.ts",
-        "../node_modules/@types/uglify-js/node_modules/source-map/source-map.d.ts",
+        "../node_modules/source-map/source-map.d.ts",
         "../node_modules/@types/source-list-map/index.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -4840,7 +4959,7 @@
         "../node_modules/@types/tapable/index.d.ts",
         "../node_modules/@types/uglify-js/index.d.ts",
         "../node_modules/@types/anymatch/index.d.ts",
-        "../node_modules/@types/uglify-js/node_modules/source-map/source-map.d.ts",
+        "../node_modules/source-map/source-map.d.ts",
         "../node_modules/@types/webpack-sources/index.d.ts",
         "../node_modules/@types/node/ts3.2/index.d.ts",
         "../node_modules/@types/node/fs.d.ts",
@@ -7228,113 +7347,6 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/@hasezoey/typegoose/lib/defaultclasses.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/types.d.ts": [
-        "../node_modules/@types/node/ts3.2/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/loglevel/index.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/logsettings.d.ts": [
-        "../node_modules/loglevel/index.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/method.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/prop.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/hooks.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/typegoose.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/plugin.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/index.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/typeguards.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/typegoose.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/optionsprop.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/internal/constants.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/internal/utils.d.ts": [
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/internal/constants.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@hasezoey/typegoose/lib/typegoose.d.ts": [
-        "../node_modules/reflect-metadata/index.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/defaultclasses.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/logsettings.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/method.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/prop.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/hooks.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/plugin.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/index.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/typeguards.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/optionsprop.d.ts",
-        "../node_modules/@hasezoey/typegoose/lib/internal/utils.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
       "../node_modules/class-validator/validation/validationerror.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
@@ -7475,6 +7487,210 @@
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose-class.interface.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose.decorators.d.ts": [
+        "../node_modules/nestjs-typegoose/dist/typegoose-class.interface.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/bson/index.d.ts": [
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/mongodb/index.d.ts": [
+        "../node_modules/@types/bson/index.d.ts",
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/node/tls.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@types/mongoose/index.d.ts": [
+        "../node_modules/@types/node/events.d.ts",
+        "../node_modules/@types/mongodb/index.d.ts",
+        "../node_modules/@types/node/stream.d.ts",
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose.providers.d.ts": [
+        "../node_modules/nestjs-typegoose/dist/typegoose-class.interface.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose-options.interface.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/@nestjs/common/interfaces/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose.module.d.ts": [
+        "../node_modules/@nestjs/common/index.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose.providers.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose-class.interface.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose-options.interface.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/typegoose.utils.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/nestjs-typegoose/dist/index.d.ts": [
+        "../node_modules/nestjs-typegoose/dist/typegoose.decorators.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose.module.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose.utils.d.ts",
+        "../node_modules/nestjs-typegoose/dist/typegoose-options.interface.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/types.d.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/defaultclasses.d.ts",
+        "../node_modules/@types/node/ts3.2/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/defaultclasses.d.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/loglevel/index.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/logsettings.d.ts": [
+        "../node_modules/loglevel/index.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/prop.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/hooks.d.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/typegoose.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/plugin.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/index.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/typeguards.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/typegoose.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/optionsprop.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/internal/constants.d.ts": [
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/internal/utils.d.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/internal/constants.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/globaloptions.d.ts": [
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../node_modules/@typegoose/typegoose/lib/typegoose.d.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/reflect-metadata/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/defaultclasses.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/logsettings.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/prop.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/hooks.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/plugin.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/typeguards.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/optionsprop.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/internal/utils.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/globaloptions.d.ts",
+        "../node_modules/@types/node/fs.d.ts",
+        "../node_modules/@types/node/ts3.2/fs.d.ts",
+        "../node_modules/@types/node/util.d.ts",
+        "../node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "../src/posts/posts.controller.ts": [
+        "../node_modules/@types/mongoose/index.d.ts",
+        "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+        "../src/posts/post.model.ts"
       ],
       "../node_modules/@nestjs/core/adapters/http-adapter.d.ts": [
         "../node_modules/@nestjs/common/index.d.ts",
@@ -7955,7 +8171,7 @@
         "../node_modules/@types/node/util.d.ts",
         "../node_modules/@types/node/ts3.2/util.d.ts"
       ],
-      "../node_modules/@types/uglify-js/node_modules/source-map/source-map.d.ts": [
+      "../node_modules/source-map/source-map.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -7963,18 +8179,6 @@
       ],
       "../node_modules/@types/uglify-js/index.d.ts": [
         "../node_modules/@types/uglify-js/node_modules/source-map/source-map.d.ts",
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/webpack/node_modules/source-map/source-map.d.ts": [
-        "../node_modules/@types/node/fs.d.ts",
-        "../node_modules/@types/node/ts3.2/fs.d.ts",
-        "../node_modules/@types/node/util.d.ts",
-        "../node_modules/@types/node/ts3.2/util.d.ts"
-      ],
-      "../node_modules/@types/webpack-sources/node_modules/source-map/source-map.d.ts": [
         "../node_modules/@types/node/fs.d.ts",
         "../node_modules/@types/node/ts3.2/fs.d.ts",
         "../node_modules/@types/node/util.d.ts",
@@ -8321,21 +8525,6 @@
       "../node_modules/@nestjs/swagger/index.d.ts",
       "../src/app.controller.ts",
       "../src/app.service.ts",
-      "../node_modules/@hasezoey/typegoose/lib/defaultclasses.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/types.d.ts",
-      "../node_modules/loglevel/index.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/logsettings.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/method.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/prop.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/hooks.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/plugin.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/index.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/typeguards.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/optionsprop.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/internal/constants.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/internal/utils.d.ts",
-      "../node_modules/@hasezoey/typegoose/lib/typegoose.d.ts",
-      "../src/posts/post.model.ts",
       "../node_modules/class-validator/validation/validationerror.d.ts",
       "../node_modules/class-validator/validation/validatoroptions.d.ts",
       "../node_modules/class-validator/validation-schema/validationschema.d.ts",
@@ -8354,7 +8543,31 @@
       "../node_modules/class-validator/metadata/constraintmetadata.d.ts",
       "../node_modules/class-validator/metadata/metadatastorage.d.ts",
       "../node_modules/class-validator/index.d.ts",
-      "../src/posts/posts.module.ts",
+      "../node_modules/nestjs-typegoose/dist/typegoose-class.interface.d.ts",
+      "../node_modules/nestjs-typegoose/dist/typegoose.decorators.d.ts",
+      "../node_modules/@types/bson/index.d.ts",
+      "../node_modules/@types/mongodb/index.d.ts",
+      "../node_modules/@types/mongoose/index.d.ts",
+      "../node_modules/nestjs-typegoose/dist/typegoose.providers.d.ts",
+      "../node_modules/nestjs-typegoose/dist/typegoose-options.interface.d.ts",
+      "../node_modules/nestjs-typegoose/dist/typegoose.module.d.ts",
+      "../node_modules/nestjs-typegoose/dist/typegoose.utils.d.ts",
+      "../node_modules/nestjs-typegoose/dist/index.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/types.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/defaultclasses.d.ts",
+      "../node_modules/loglevel/index.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/logsettings.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/prop.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/hooks.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/plugin.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/index.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/typeguards.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/optionsprop.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/internal/constants.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/internal/utils.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/globaloptions.d.ts",
+      "../node_modules/@typegoose/typegoose/lib/typegoose.d.ts",
+      "../src/posts/post.model.ts",
       "../src/app.module.ts",
       "../node_modules/@nestjs/core/adapters/http-adapter.d.ts",
       "../node_modules/@nestjs/core/adapters/index.d.ts",
@@ -8416,15 +8629,14 @@
       "../node_modules/@types/superagent/index.d.ts",
       "../node_modules/@types/supertest/index.d.ts",
       "../node_modules/@types/tapable/index.d.ts",
-      "../node_modules/@types/uglify-js/node_modules/source-map/source-map.d.ts",
+      "../node_modules/source-map/source-map.d.ts",
       "../node_modules/@types/uglify-js/index.d.ts",
-      "../node_modules/@types/webpack/node_modules/source-map/source-map.d.ts",
-      "../node_modules/@types/webpack-sources/node_modules/source-map/source-map.d.ts",
       "../node_modules/@types/webpack-sources/index.d.ts",
       "../node_modules/@types/webpack/index.d.ts",
       "../node_modules/@types/yargs-parser/index.d.ts",
       "../node_modules/@types/yargs/index.d.ts",
-      "../src/posts/posts.controller.ts"
+      "../src/posts/posts.controller.ts",
+      "../src/posts/posts.module.ts"
     ]
   },
   "version": "3.7.2"

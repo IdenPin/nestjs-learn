@@ -14,8 +14,9 @@ var __param = (this && this.__param) || function (paramIndex, decorator) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const common_1 = require("@nestjs/common");
 const swagger_1 = require("@nestjs/swagger");
-const post_model_1 = require("./post.model");
 const class_validator_1 = require("class-validator");
+const nestjs_typegoose_1 = require("nestjs-typegoose");
+const post_model_1 = require("./post.model");
 class PostDto {
 }
 __decorate([
@@ -28,26 +29,29 @@ __decorate([
     __metadata("design:type", String)
 ], PostDto.prototype, "content", void 0);
 let PostsController = class PostsController {
+    constructor(postModel) {
+        this.postModel = postModel;
+    }
     async index() {
-        return await post_model_1.PostModel.find();
+        return await this.postModel.find();
     }
     async create(createPostDto) {
-        await post_model_1.PostModel.create(createPostDto);
+        await this.postModel.create(createPostDto);
         return {
             success: true
         };
     }
     async detail(id) {
-        return await post_model_1.PostModel.findById(id);
+        return await this.postModel.findById(id);
     }
     async update(id, updatePostDto) {
-        await post_model_1.PostModel.findByIdAndUpdate(id, updatePostDto);
+        await this.postModel.findByIdAndUpdate(id, updatePostDto);
         return {
             success: true
         };
     }
     async remove(id) {
-        await post_model_1.PostModel.findByIdAndRemove(id);
+        await this.postModel.findByIdAndRemove(id);
         return {
             success: true
         };
@@ -94,7 +98,9 @@ __decorate([
 ], PostsController.prototype, "remove", null);
 PostsController = __decorate([
     common_1.Controller('posts'),
-    swagger_1.ApiUseTags('帖子')
+    swagger_1.ApiUseTags('帖子'),
+    __param(0, nestjs_typegoose_1.InjectModel(post_model_1.Post)),
+    __metadata("design:paramtypes", [Object])
 ], PostsController);
 exports.PostsController = PostsController;
 //# sourceMappingURL=posts.controller.js.map
