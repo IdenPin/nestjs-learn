@@ -14,6 +14,16 @@ var __param = (this && this.__param) || function (paramIndex, decorator) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const common_1 = require("@nestjs/common");
 const swagger_1 = require("@nestjs/swagger");
+class PostDto {
+}
+__decorate([
+    swagger_1.ApiModelProperty({ description: '帖子标题' }),
+    __metadata("design:type", String)
+], PostDto.prototype, "title", void 0);
+__decorate([
+    swagger_1.ApiModelProperty({ description: '帖子内容' }),
+    __metadata("design:type", String)
+], PostDto.prototype, "content", void 0);
 let PostsController = class PostsController {
     index() {
         return [
@@ -23,18 +33,25 @@ let PostsController = class PostsController {
             { id: 1, title: '帖子1' },
         ];
     }
-    create(body, query, params) {
+    create(body) {
         return {
-            body,
-            query,
-            params,
             success: true
         };
     }
-    detail() {
+    detail(id) {
         return {
-            id: 1,
+            id,
             title: 'pdeng'
+        };
+    }
+    update(id, body) {
+        return {
+            success: true
+        };
+    }
+    remove(id) {
+        return {
+            success: true
         };
     }
 };
@@ -48,18 +65,35 @@ __decorate([
 __decorate([
     common_1.Post(),
     swagger_1.ApiOperation({ title: '创建帖子' }),
-    __param(0, common_1.Body()), __param(1, common_1.Query()), __param(2, common_1.Param()),
+    __param(0, common_1.Body()),
     __metadata("design:type", Function),
-    __metadata("design:paramtypes", [Object, Object, Object]),
+    __metadata("design:paramtypes", [PostDto]),
     __metadata("design:returntype", void 0)
 ], PostsController.prototype, "create", null);
 __decorate([
     common_1.Get(':id'),
     swagger_1.ApiOperation({ title: '通过 id 查找帖子详情' }),
+    __param(0, common_1.Param('id')),
     __metadata("design:type", Function),
-    __metadata("design:paramtypes", []),
+    __metadata("design:paramtypes", [String]),
     __metadata("design:returntype", void 0)
 ], PostsController.prototype, "detail", null);
+__decorate([
+    common_1.Put(':id'),
+    swagger_1.ApiOperation({ title: '修改帖子' }),
+    __param(0, common_1.Param('id')), __param(1, common_1.Body()),
+    __metadata("design:type", Function),
+    __metadata("design:paramtypes", [String, PostDto]),
+    __metadata("design:returntype", void 0)
+], PostsController.prototype, "update", null);
+__decorate([
+    common_1.Delete(':id'),
+    swagger_1.ApiOperation({ title: '删除帖子' }),
+    __param(0, common_1.Param('id')),
+    __metadata("design:type", Function),
+    __metadata("design:paramtypes", [String]),
+    __metadata("design:returntype", void 0)
+], PostsController.prototype, "remove", null);
 PostsController = __decorate([
     common_1.Controller('posts'),
     swagger_1.ApiUseTags('帖子')

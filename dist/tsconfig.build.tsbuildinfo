@@ -1218,8 +1218,8 @@
         "signature": "653711fba8904aa27fd8911b63cf526e7b334e13a292da4cefdbbe179ac3f3f2"
       },
       "../src/posts/posts.controller.ts": {
-        "version": "3b1dd5bfffd9d07b3042556f0e6d88ebbbd1a5a7ea1eb4f5d29c7d55970d5fee",
-        "signature": "b33627fc780a6c2c0abdfa8d28393ca1d8e1a6a8d47f6bd648d46ca92bd945f7"
+        "version": "44d76da12e3adb212a3b85f2196e7dc2e52a0ad88051858586a4a2b7bb10cf8a",
+        "signature": "414f242532d38f46ad2be730214dc96c14ecbf5f7e370c58cb8e282b7c5e2441"
       },
       "../src/posts/posts.module.ts": {
         "version": "984e76c0cd8ca95a826cc651fe2455131dba706b2d37077b93266b5b9e798a55",
@@ -7683,7 +7683,6 @@
       "../node_modules/@nestjs/swagger/index.d.ts",
       "../src/app.controller.ts",
       "../src/app.service.ts",
-      "../src/posts/posts.module.ts",
       "../src/app.module.ts",
       "../node_modules/@nestjs/core/adapters/http-adapter.d.ts",
       "../node_modules/@nestjs/core/adapters/index.d.ts",
@@ -7753,7 +7752,8 @@
       "../node_modules/@types/webpack/index.d.ts",
       "../node_modules/@types/yargs-parser/index.d.ts",
       "../node_modules/@types/yargs/index.d.ts",
-      "../src/posts/posts.controller.ts"
+      "../src/posts/posts.controller.ts",
+      "../src/posts/posts.module.ts"
     ]
   },
   "version": "3.7.2"
