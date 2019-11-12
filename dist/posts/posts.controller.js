@@ -14,6 +14,7 @@ var __param = (this && this.__param) || function (paramIndex, decorator) {
 Object.defineProperty(exports, "__esModule", { value: true });
 const common_1 = require("@nestjs/common");
 const swagger_1 = require("@nestjs/swagger");
+const post_model_1 = require("./post.model");
 class PostDto {
 }
 __decorate([
@@ -25,26 +26,19 @@ __decorate([
     __metadata("design:type", String)
 ], PostDto.prototype, "content", void 0);
 let PostsController = class PostsController {
-    index() {
-        return [
-            { id: 1, title: '帖子1' },
-            { id: 1, title: '帖子1' },
-            { id: 1, title: '帖子1' },
-            { id: 1, title: '帖子1' },
-        ];
+    async index() {
+        return await post_model_1.PostModel.find();
     }
-    create(body) {
+    async create(body) {
+        await post_model_1.PostModel.create(body);
         return {
             success: true
         };
     }
-    detail(id) {
-        return {
-            id,
-            title: 'pdeng'
-        };
+    async detail(id) {
+        return await post_model_1.PostModel.findById(id);
     }
-    update(id, body) {
+    async update(id, body) {
         return {
             success: true
         };
@@ -60,7 +54,7 @@ __decorate([
     swagger_1.ApiOperation({ title: '显示帖子列表' }),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", []),
-    __metadata("design:returntype", void 0)
+    __metadata("design:returntype", Promise)
 ], PostsController.prototype, "index", null);
 __decorate([
     common_1.Post(),
@@ -68,7 +62,7 @@ __decorate([
     __param(0, common_1.Body()),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", [PostDto]),
-    __metadata("design:returntype", void 0)
+    __metadata("design:returntype", Promise)
 ], PostsController.prototype, "create", null);
 __decorate([
     common_1.Get(':id'),
@@ -76,7 +70,7 @@ __decorate([
     __param(0, common_1.Param('id')),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", [String]),
-    __metadata("design:returntype", void 0)
+    __metadata("design:returntype", Promise)
 ], PostsController.prototype, "detail", null);
 __decorate([
     common_1.Put(':id'),
@@ -84,7 +78,7 @@ __decorate([
     __param(0, common_1.Param('id')), __param(1, common_1.Body()),
     __metadata("design:type", Function),
     __metadata("design:paramtypes", [String, PostDto]),
-    __metadata("design:returntype", void 0)
+    __metadata("design:returntype", Promise)
 ], PostsController.prototype, "update", null);
 __decorate([
     common_1.Delete(':id'),
