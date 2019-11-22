@@ -3,11 +3,11 @@ declare class PostDto {
     content: string;
 }
 export declare class PostsController {
-    index(): Promise<any>;
+    index(): Promise<import("@hasezoey/typegoose").DocumentType<import("./post.model").Post>[]>;
     create(createPostDto: PostDto): Promise<{
         success: boolean;
     }>;
-    detail(id: string): Promise<any>;
+    detail(id: string): Promise<import("@hasezoey/typegoose").DocumentType<import("./post.model").Post>>;
     update(id: string, updatePostDto: PostDto): Promise<{
         success: boolean;
     }>;
